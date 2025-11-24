@@ -1,50 +1,18 @@
 [
   {
-    "id": "g-default",
-    "type": "group",
-    "title": "Mes Liens",
-    "x": 585.5,
-    "y": 470.5
-  },
-  {
     "id": "g-1763989617722",
     "type": "group",
     "title": "Formations Azure",
-    "x": 951.3066033856094,
-    "y": 288.1145702776672
+    "x": 981.3066033856094,
+    "y": 193.1145702776672
   },
   {
-    "id": "g-liens001",
-    "type": "group",
-    "title": "Liens à lire",
-    "x": 951.3066033856094,
-    "y": 288.1145702776672
-  },
-  {
-    "id": "l-1763989727344",
+    "id": "l-1763990310296",
     "type": "link",
     "parentId": "g-1763989617722",
-    "title": "aze",
-    "url": "https://aze",
-    "x": 1051.3066033856094,
-    "y": 388.1145702776672
-  },
-  {
-    "id": "l-1763989730562",
-    "type": "link",
-    "parentId": "g-1763989617722",
-    "title": "azeaze",
-    "url": "https://azeaze",
-    "x": 757.3066033856094,
-    "y": 335.1145702776672
-  },
-  {
-    "id": "l-1763989736831",
-    "type": "link",
-    "parentId": "g-1763989617722",
-    "title": "azeazeaze",
-    "url": "https://azeazeaze",
-    "x": 689.3066033856094,
-    "y": 159.1145702776672
+    "title": "Microsoft Certified: Azure Network Engineer Associate",
+    "url": "https://learn.microsoft.com/en-us/credentials/certifications/azure-network-engineer-associate/?practice-assessment-type=certification#certification-prepare-for-the-exam",
+    "x": 590.3066033856094,
+    "y": 87.11457027766721
   }
 ]
